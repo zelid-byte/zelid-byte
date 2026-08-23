@@ -1,6 +1,6 @@
 # 👋 Привет, я Александр (zelid-byte)
 
-Студент 3-го курса БГУИР (ФИТУ). Увлекаюсь бэкенд-разработкой на C# / .NET и созданием десктопных приложений.
+Студент 3-го курса БГУИР (ФИТУ). Занимаюсь C# / .NET бэкенд-разработкой, C++ и архитектурой ПО.
 
 ---
 
@@ -16,16 +16,15 @@
 
 ---
 
-### 🚀 Мои ключевые проекты
+### 🚀 Ключевые проекты
 
+* **[Console RPG Engine](https://github.com/zelid-byte)** — Полноценная консольная RPG на **C#**. Реализованы игровой цикл (Game Loop), пошаговая система боёв, инвентарь, магазин, фабрика врагов (*Factory Pattern*) и сериализация прогресса в **JSON**.
 * **[Enter IT](https://github.com/zelid-byte/Enter-IT)** — Настольная игра на **C# / WPF** в стиле *60 Seconds*, интегрированная с локальной базой данных **SQLite** для сохранения прогресса и архитектурой на паттернах ООП.
-* **[Угадай мем](https://github.com/zelid-byte)** — Академический курсовой проект на **C++ / Qt Framework** с подключением **SQL** и кастомным графическим интерфейсом.
+* **[Угадай мем](https://github.com/zelid-byte)** — Академический проект на **C++ / Qt Framework** с подключением **SQL** и кастомным графическим интерфейсом.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Статистика профиля
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelid-byte&show_icons=true&theme=tokyonight" alt="zelid-byte stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelid-byte&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
-</p>
+![zelid-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelid-byte&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelid-byte&layout=compact&theme=tokyonight)
