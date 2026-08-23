@@ -19,6 +19,8 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/zelid-byte/zelid-byte/output/github-contribution-grid-snake.svg)
+
 ### 🚀 Ключевые проекты
 
 * **[Console RPG Engine](https://github.com/zelid-byte/RpgEngine)** — Полноценная консольная RPG на **C#**. Реализованы игровой цикл (Game Loop), пошаговая система боёв, инвентарь, магазин, фабрика врагов (*Factory Pattern*) и сериализация прогресса в **JSON**.
@@ -29,7 +31,5 @@
 
 ### 📈 Статистика профиля
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelid-byte&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelid-byte&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
+![Visitors](https://count.getloli.com/get/@zelid-byte?theme=3d-num)
+
